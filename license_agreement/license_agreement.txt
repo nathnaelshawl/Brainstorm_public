@@ -1,0 +1,34 @@
+BRAINSTORM End User License Agreement
+
+Please read the following agreement carefully before installing and using Brainstorm Software 
+THIS AGREEMENT is made  between Nathnael Shawl and  licensed businesses or between Nathnael Shawl and individual users.
+
+This Software is a freeware product developed for software suppliers and licensed service providers and their users. The user may freely install and use the Software at home, in workplace, and in other places such as internet cafés, schools, government offices for the purpose of creating design files on the User’s computer. (This Software is not subject to software copyright laws).
+
+Open Source Disclaimer
+
+Customer acknowledges that the some of the solutions and libraries being provided by me are "Open Source" and Customer is being granted a worldwide, non-exclusive license, under the General Public License (GPL) to deploy, modify, or otherwise use the Open Source Code in their business or enterprise. Customer is not being charged a fee for using any open source resources. The use of Open Source software carries NO WARRANTY, whether explicit or implied, and I am not responsible for any damages that may be incurred as a result of using Open Source software, libraries, or other resources.
+
+1 .Critical Patches, Upgrades, and Security Risks
+
+Customer acknowledges and understands that from time to time vulnerabilities may be uncovered in the Software Project or the operating system, applications, or other programs or resources that the Software Project may be dependent upon to function. Customer acknowledges that it is not my responsibility to support, upgrade, or otherwise patch the Software Project after installation is complete.
+I have no responsibility for any third party taking, stealing, "hacking," altering, or otherwise modifying all or any part of the Software Project, Source Code, Object Code, Graphics, Text, or any other materials related to the Software Project
+
+2. Disputes
+
+If legal proceedings are commenced to resolve a dispute arising out of or relating to this agreement, the prevailing party shall be entitled to recover all costs, legal fees, and expert witness fees, as well as any costs or legal fees in connection with any appeals.
+
+Use of Software Project for Promotional Purposes
+
+Customer grants me the right to reference the Software Project for promotional purposes and/or to cross-link to it with other marketing efforts developed by me. I may not, at any time, disclose or grant access to Customer's Software Project, private information, resources, or any other non-public asset used for the purposes of promotion or marketing.
+
+I have exclusive rights in making any derivative works of pre-existing or open source code or related graphics and animations. Customer acknowledges that similarities may exist between other Software Projects developed by me and any such similarities, both past and future, constitute my Style and proprietary information
+
+Customer agrees that my links will be placed on the bottom of the front page and on internal pages of the Software Project in a mutually agreeable size and location. Customer also agrees to put my copyright notices in any source code where pre-existing or proprietary information is present. Source code copyrights shall not be public unless a user views the source code directly.
+Customer agrees to display all legally required copyright notices as prescribed by applicable law.
+
+By clicking on the “ I Agree ” button or installing, copying or otherwise using the Software, you will be deemed to have agreed to the terms of this Agreement. If you do not agree to the terms of this Agreement, click the “Cancel” button or do not use (including installing, copying or otherwise using the Software; hereinafter referred to as the same) this Software on your computer.
+
+By using this Software, you will be deemed to have read, understood, and agreed to the terms of this Agreement.
+
+@Nathnael_Shawl email-nathnaels4@gmail.com
